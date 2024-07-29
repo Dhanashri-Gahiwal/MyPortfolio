@@ -16,6 +16,9 @@ body {
 .education-section, .skills-section {
     background-color: #f4f6f8;
 }
+.experience-section{
+    background-color: #fdfbf2;
+}
 h2 {
     font-size: 3rem;
     font-weight: bolder;
@@ -37,7 +40,7 @@ header .navbar-light .navbar-brand {
 }
 
 header nav .navbar-nav .nav-item {
-    margin: 0 0.7rem;
+    margin: 0 0.2rem;
 }
 
 header nav .navbar-nav .nav-item .nav-link:hover {
